@@ -105,5 +105,5 @@ I believe in **Deep Fundamentals**—I don't just use frameworks; I study how th
   <a href="mailto:veerhooda@icloud.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-18-mishra)
 </div>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veer-hooda-a9905b375/)]
