@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Zenitsu.gif" width="100%" alt="Zenitsu Thunder Breathing">
+  <img src="gif.gif" width="100%" alt="Zenitsu Thunder Breathing">
 
   <h1 align="center">⚡ Hi, I'm Veer Hooda ⚡</h1>
 
@@ -101,6 +101,9 @@ I believe in **Deep Fundamentals**—I don't just use frameworks; I study how th
   
   <a href="https://instagram.com/_veerhooda_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/veer-hooda-a9905b375">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:veerhooda@icloud.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
