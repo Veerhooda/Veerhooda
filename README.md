@@ -54,28 +54,24 @@ I believe in **Deep Fundamentals**—I don't just use frameworks; I study how th
 
 ---
 
-## ⚡ Current Missions (Projects)
+## ⚡ Current Missions
 
-### 📱 **Soul Companion (AURA ONE)**
-> *Context-aware Mobile Application*
-* **Tech:** Flutter, Dart, AI Integration.
-* **Focus:** Creating a "companion" architecture with seamless UI/UX. Currently optimizing state management and clean architecture.
+| Project | Description | Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| **👻 Soul Companion** | Smart Safety & Companion App. Developing the "AURA ONE" architecture. | `Flutter` `Dart` `AI` | [![Repo](https://img.shields.io/badge/View_Code-F7D046?style=flat&logo=github&logoColor=black)](https://github.com/veerhooda/soul_companion) |
+| **🛡️ Tourist Safety** | Geospatial incident response system for travelers using AI & real-time data. | `Python` `Maps API` | [![Repo](https://img.shields.io/badge/View_Code-F7D046?style=flat&logo=github&logoColor=black)](https://github.com/veerhooda/Smart-Tourist-Safety-System) |
+| **wm Farmer's Rain** | Web tool helping farmers interpret complex weather data simply. | `JS` `Web` | [![Repo](https://img.shields.io/badge/View_Code-F7D046?style=flat&logo=github&logoColor=black)](https://github.com/veerhooda/Farmers-Rain-Interpreter) |
 
-### 🐧 **Custom Linux Distribution**
-> *Systems Engineering*
-* **Tech:** Linux Kernel, Bash, C.
-* **Focus:** Building a distro from scratch—kernel configuration, bootloader setup, and zero bloat. No legacy support, just speed.
+---
 
-### 🛡️ **Smart Tourist Safety & Incident Response**
-> *AI + Geospatial System*
-* **Tech:** AI Models, Geolocation, Real-time Data.
-* **Focus:** Analyzing environmental data to provide safety alerts for travelers.
+## 🌩️ Gathering Clouds (Upcoming)
 
-### 🌧️ **Farmer's Rain Interpreter**
-> *Web Utility*
-* **Tech:** JavaScript, Weather APIs.
-* **Focus:** Simplifying complex meteorological data into actionable advice for farmers.
+> *"Thunder Breathing: First Form... Preparing."*
 
+| Protocol | Status | Mission Brief |
+| :--- | :--- | :--- |
+| **🐧 Custom Linux Distro** | `In Development` | Building a minimal, non-bloated Linux distribution from scratch. Custom kernel configuration only. |
+| **🏥 Healthcare AI** | `Planning` | Exploring systems-level AI integration for real-time health monitoring. |
 ---
 
 ## ⚡ Power Levels
