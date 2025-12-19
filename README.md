@@ -87,7 +87,7 @@ I believe in **Deep Fundamentals**—I don't just use frameworks; I study how th
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerhooda&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117&title_color=F7D046" alt="Top Languages" />
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veerhooda&theme=gotham&hide_border=true&background=0D1117&ring=F7D046&fire=F7D046&currStreakLabel=F7D046&sideLabels=ffffff" alt="Streak" />
+  ![](https://nirzak-streak-stats.vercel.app/?user=ayushmishra-18&theme=blue-green&hide_border=false)
 </div>
 
 ---
@@ -99,10 +99,10 @@ I believe in **Deep Fundamentals**—I don't just use frameworks; I study how th
   
   <p>Let's build something electric.</p>
   
-  <a href="https://instagram.com/YOUR_HANDLE">
+  <a href="https://instagram.com/_veerhooda_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:veerhooda@icloud.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
