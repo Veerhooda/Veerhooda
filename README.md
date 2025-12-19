@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gif.gif" width="100%" alt="Zenitsu Thunder Breathing">
+  <img src="zeni.gif" width="100%" alt="Zenitsu Thunder Breathing">
 
   <h1 align="center">⚡ Hi, I'm Veer Hooda ⚡</h1>
 
