@@ -60,7 +60,7 @@ I believe in **Deep Fundamentals**—I don't just use frameworks; I study how th
 | :--- | :--- | :--- | :---: |
 | **👻 Soul Companion** | Smart Safety & Companion App. Developing the "AURA ONE" architecture. | `Flutter` `Dart` `AI` | [![Repo](https://img.shields.io/badge/View_Code-F7D046?style=flat&logo=github&logoColor=black)](https://github.com/veerhooda/soul_companion) |
 | **🛡️ Tourist Safety** | Geospatial incident response system for travelers using AI & real-time data. | `Python` `Maps API` | [![Repo](https://img.shields.io/badge/View_Code-F7D046?style=flat&logo=github&logoColor=black)](https://github.com/veerhooda/Smart-Tourist-Safety-System) |
-| **wm Farmer's Rain** | Web tool helping farmers interpret complex weather data simply. | `JS` `Web` | [![Repo](https://img.shields.io/badge/View_Code-F7D046?style=flat&logo=github&logoColor=black)](https://github.com/veerhooda/Farmers-Rain-Interpreter) |
+| ** Farmer's Rain** | Web tool helping farmers interpret complex weather data simply. | `JS` `Web` | [![Repo](https://img.shields.io/badge/View_Code-F7D046?style=flat&logo=github&logoColor=black)](https://github.com/veerhooda/Farmers-Rain-Interpreter) |
 
 ---
 
@@ -70,8 +70,8 @@ I believe in **Deep Fundamentals**—I don't just use frameworks; I study how th
 
 | Protocol | Status | Mission Brief |
 | :--- | :--- | :--- |
-| **🐧 Custom Linux Distro** | `In Development` | Building a minimal, non-bloated Linux distribution from scratch. Custom kernel configuration only. |
-| **🏥 Healthcare AI** | `Planning` | Exploring systems-level AI integration for real-time health monitoring. |
+| **🐧 Custom Linux Distro** | `Planning` | Building a minimal, non-bloated Linux distribution from scratch. Custom kernel configuration only. |
+| **🏥 Healthcare AI** | `In Development` | Exploring systems-level AI integration for real-time health monitoring. |
 ---
 
 ## ⚡ Power Levels
