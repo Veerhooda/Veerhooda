@@ -91,7 +91,7 @@ I believe in **Deep Fundamentals**—I don't just use frameworks; I study how th
 <div align="center">
   <h3>"If you can only do one thing, hone it to perfection.<br>Hone it to the utmost limit."</h3>
   
-  <img src="https://media.tenor.com/XwH1y7iVlJIAAAAi/zenitsu-demon-slayer.gif" width="80" />
+  <img src="_.gif" width="80" />
   
   <p>Let's build something electric.</p>
   
