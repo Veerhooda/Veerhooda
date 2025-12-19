@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNvbXdpZGpzbHZ5YmU1bm5vbDM5eW15bGR5aHl6aXkwdnh5bHZ4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VtT50Dff2O0Ks/giphy.gif" width="100%" alt="Zenitsu Thunder Breathing">
+  <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNvbXdpZGpzbHZ5YmU1bm5vbDM5eW15bGR5aHl6aXkwdnh5bHZ4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VtT50Dff2O0Ks/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBvcjVqbGQ3dnljdHU4MWt2dzBjeThjbHk3MHIxc3ZzeHUxNG9qMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dISk854tQqGKHFm88e/giphy.gif)" width="100%" alt="Zenitsu Thunder Breathing">
 
   <h1 align="center">⚡ Hi, I'm Veer Hooda ⚡</h1>
 
