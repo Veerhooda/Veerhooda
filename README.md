@@ -80,7 +80,7 @@ I believe in **Deep Fundamentals**—I don't just use frameworks; I study how th
   <img src="https://github.com/veerhooda/veerhooda/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerhooda&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117&title_color=F7D046" alt="Top Languages" />
+  <img src="https://github-readme-stats-seven-iota-51.vercel.app/api?username=veerhooda&show_icons=true&theme=transparent&hide_border=true" alt="Top Languages" />
   <br/>
   
   ![](https://nirzak-streak-stats.vercel.app/?user=ayushmishra-18&theme=blue-green&hide_border=false)
