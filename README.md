@@ -77,7 +77,7 @@ I believe in **Deep Fundamentals**—I don't just use frameworks; I study how th
 ## ⚡ Power Levels
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veerhooda&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117&title_color=F7D046&icon_color=F7D046&text_color=ffffff" alt="Veer's Stats" />
+  <img src="https://github.com/veerhooda/veerhooda/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   <br/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerhooda&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117&title_color=F7D046" alt="Top Languages" />
